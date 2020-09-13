@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/SahaBookStore/.vs/SahaBookStore
+/SahaBookStore/bin/Debug/netcoreapp3.1
+/SahaBookStore/obj
